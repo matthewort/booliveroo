@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    // background-color: #5b2020;
+    min-height: 100vh;
+    color: #fff;
+
+    background: rgb(91,32,32);
+    background: linear-gradient(30deg, rgba(91,32,32,1) 56%, rgba(63,17,0,1) 56%); 
+}
+
+.card{
+  color: #000;
+  border: none;
+}

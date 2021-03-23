@@ -1,0 +1,48 @@
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Nunito");
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import "~bootstrap/scss/bootstrap";
+@import "~@fortawesome/fontawesome-free/css/all.min.css";
+
+// Welcome
+@import "pages/_welcome.scss";
+
+//Register
+@import "pages/_register.scss";
+
+//Login
+@import "pages/_login.scss";
+
+//Header
+@import "pages/_header.scss";
+
+//Footer
+@import "pages/_footer.scss";
+
+//Client Index
+@import "pages/_client-index.scss";
+
+//Main Layout
+@import "pages/_main-layout.scss";
+
+//user show
+@import "pages/_user-show.scss";
+
+//home
+@import "pages/_home.scss";
+
+//hosted-blade.scss
+@import "pages/hosted-blade.scss";
+
+//order-index.scss
+@import "pages/order-index.scss";
+
+//index-chart.scss
+@import "pages/index-chart.scss";
+
+//dish-index.scss
+@import "pages/dish-index.scss";

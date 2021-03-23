@@ -1,0 +1,19 @@
+.order-index{
+
+  .card{
+    background-color: #FEEEBC;
+    border: none;
+
+  }
+
+  .btn {
+    color: #000;
+    background-color: #FEEEBC;
+    font-size: 20px;
+
+    &:hover{
+      filter: brightness(90%);
+    }
+  }
+
+}
